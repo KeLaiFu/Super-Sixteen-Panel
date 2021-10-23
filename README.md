@@ -1,5 +1,5 @@
 # Super-Sixteen-Panel
-https://github.com/KeLaiFu/Super-Sixteen-Panel/blob/main/clean%20s16.png
+![alt text](https://github.com/KeLaiFu/Super-Sixteen-Panel/blob/main/clean%20s16.png?raw=true)
 
 PCB replacement panel for the excellent Super Sixteen sequencer from extralife instruments  (https://github.com/matthewcieplak/super-sixteen)
 
