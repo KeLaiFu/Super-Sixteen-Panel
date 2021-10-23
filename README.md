@@ -1,5 +1,6 @@
 # Super-Sixteen-Panel
-https://github.com/KeLaiFu/Super-Sixteen-Panel/blob/main/clean%20s16.png?raw=true
+https://github.com/KeLaiFu/Super-Sixteen-Panel/blob/main/clean%20s16.png
+
 PCB replacement panel for the excellent Super Sixteen sequencer from extralife instruments  (https://github.com/matthewcieplak/super-sixteen)
 
 Button holes enlarged from 5mm to 6mm to suit the buttons I had at hand. Added the 'song' label to button 16 which is an additional feature added in a firmware update.
